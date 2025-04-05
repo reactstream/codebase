@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.3] - 2025-04-05
+
+### Added
+- Changes in api/index.js
+- Changes in api/routes/file.js
+- Changes in api/routes/project.js
+- Changes in api/routes/session.js
+- Changes in kill.sh
+- Changes in services/git-service.js
+- Changes in services/session-service.js
+- Changes in services/storage-service.js
+
 ## [0.1.2] - 2025-04-05
 
 ### Added
